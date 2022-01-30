@@ -14,8 +14,8 @@ dependencies:
   flutter_webrtc: ^0.6.5
   rtmp_publisher: 
     git: 
-      url: git@github.com:hetao29/flutter_rtmp_publisher.git  
-      ref: 172c092a9d23aab1d873a67963d625a98ab7c21f
+      url: git@github.com:Zamorite/flutter_rtmp_publisher.git
+      ref: master
   #camera_with_rtmp:
     #path: ../flutter_rtmppublisher_hetao29
   #  git: 
